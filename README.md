@@ -1,1 +1,2 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/home/about/ for how to compile this example.
+Esse livro começará a ser escrito em Bookdown (https://github.com/rstudio/bookdown). Para saber mais sobre a documentação do Pacote, leia em (https://r-graphics.org/)
+A história escrita aqui será uma novel interativa, em que o usuário determinará qual será o desenrolar da história de acordo com suas próprias ações.
